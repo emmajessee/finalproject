@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #920606;
+}
+
+#question {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.option {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    background-color: #e6dddd;
+    
+}
+
+.option:hover {
+    background-color: #7d7e7a;
+}
+
+#score {
+    font-size: 20px;
+}
